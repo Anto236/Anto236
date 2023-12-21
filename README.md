@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anto236&label=Profile%20views&color=0e75b6&style=flat" alt="anto236" /> </p>
 
+- 📫 How to reach me **Antonymbugua1237@gmail.com**
+
 <p align="left"> <a href="https://twitter.com/Antony_Mbugua_" target="blank"><img src="https://img.shields.io/twitter/follow/antonyMbugua?logo=twitter&style=for-the-badge" alt="antony_mbugua_" /></a> </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anto236&" alt="anto236" /></p>
@@ -14,7 +16,7 @@
 
 
 
-- 📫 How to reach me **Antonymbugua1237@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
